@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MarcelloZago
 - 👀 I’m interested in bioinformatics and population simulations. 
-- 🌱 I’m currently learning Bioinformatics M.Sc.
+- 🌱 I’m currently studying Bioinformatics M.Sc.
 - 💞️ I’m looking to collaborate on open source projects about population simulations.
 - 📫 How to reach me: marcello.zago.99@gmail.com
 
